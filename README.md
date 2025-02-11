@@ -41,6 +41,11 @@ I am constantly expanding my skills, currently focusing on:
    - Kubernetes (future goal) to streamline production deployments and improve scalability.
 
 
+📸 Certificates  
+
+![ISO-13485](https://github.com/jnahuel-developer/Certificados/blob/main/ISO13485.jpg)  
+
+
 📫 How to Reach Me
 
 📌 [LinkedIn](https://www.linkedin.com/in/jnahuel/)
