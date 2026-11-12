@@ -1,53 +1,90 @@
-👋 Hi, I’m @jnahuel-developer
+# Nahuel Martínez
+### Ingeniero electrónico | Senior Software Developer | Freelance
 
+**Desarrollo de software · Modernización de sistemas · Automatización · Integraciones tecnológicas**
 
-I am an Electronic Engineer with a strong background in both software and hardware design. I graduated from UTN-BA in 2017, and since then, I have accumulated over six years of experience working on diverse engineering projects.
+Soy ingeniero electrónico y desarrollador de software Senior, especializado en diseñar, construir y modernizar soluciones tecnológicas.
 
+Trabajo tanto en proyectos nuevos como en la evolución de sistemas existentes, combinando desarrollo de software, arquitectura, integración y automatización para resolver necesidades concretas.
 
-🚀 About Me
+Mi experiencia abarca aplicaciones empresariales, sistemas distribuidos, plataformas web y móviles, software de escritorio, integración de medios de pago, inteligencia artificial y sistemas embebidos.
 
+### Qué puedo aportar
 
-🔹 Expertise in ISO-compliant systems: I have designed systems following ISO 13485 (medical devices) and ISO 8583 (financial transactions).
+- **Desarrollo a medida:** aplicaciones web, móviles y de escritorio, plataformas de gestión y servicios backend.
+- **Modernización tecnológica:** análisis de aplicaciones legacy, refactorización, migraciones y evolución hacia arquitecturas modernas.
+- **Automatización e integración:** APIs, sistemas empresariales, servicios externos, pagos y procesos asistidos por inteligencia artificial.
+- **Ingeniería de software:** diseño de arquitectura, pruebas automatizadas, integración continua, documentación y despliegues.
 
-🔹 Cost Optimization & Manufacturing: I have led initiatives to reduce production costs, replacing obsolete components and establishing new PCB suppliers in China, improving efficiency and product quality.
+### Tecnologías y herramientas
 
-💻 Software Development
+| Área | Tecnologías |
+|---|---|
+| Lenguajes | C++, C, C#, TypeScript, JavaScript |
+| Backend | Node.js, .NET, APIs REST |
+| Frontend | React, HTML, CSS |
+| Aplicaciones móviles | Flutter, Firebase |
+| Bases de datos | PostgreSQL, Oracle, SQLite |
+| Infraestructura | Docker, Linux, AWS, GitHub Actions |
+| Ingeniería y calidad | Git, CI/CD, Agile, Scrum, TDD, BDD |
 
-  - Proficient in C.
-  - Advanced knowledge of C++, C#, and MATLAB.
-  - Basic knowledge of Python, HTML, CSS, and JavaScript.
-  - Experience working with relational databases like MySQL.
-  - Development of scalable cross-platform mobile apps using Flutter, integrating Firebase (database) and Dropbox API (secure file synchronization).
+Las tecnologías son herramientas. Mi prioridad es seleccionar una solución adecuada al problema, a las restricciones y a la evolución futura del sistema.
 
-🔩 Hardware Design
+### Experiencia aplicada
 
-  - Experience with Altium Designer for PCB design.
-  - Custom library development: Integration of 3D models and updated component references for seamless procurement.
-  - 3D modeling of complete PCBs: Facilitating interaction and analysis with mechanical engineering teams.
-  - BOM (Bill of Materials) management: Keeping BOMs updated to assist the purchasing department.
+Algunos de los desafíos en los que he trabajado incluyen:
 
+- Modernización de aplicaciones legacy y evolución hacia servicios desacoplados.
+- Desarrollo de sistemas de gestión para empresas y profesionales.
+- Integración de terminales de pago y plataformas transaccionales.
+- Automatización de procesos mediante asistentes y modelos de inteligencia artificial.
+- Desarrollo de aplicaciones de escritorio y soluciones conectadas con hardware.
+- Implementación de entornos de desarrollo, pruebas y despliegue automatizados.
 
-🎯 Interests
+### Probá una aplicación funcionando
 
-I am passionate about both hardware and software challenges. I enjoy tackling complex engineering problems, whether they involve firmware development, embedded systems, or full-stack applications.
+Además de presentar proyectos y tecnologías, preparé un **laboratorio interactivo** para mostrar cómo funciona una solución empresarial desde adentro.
 
+**ACME Café** es una empresa simulada con una aplicación de gestión demostrativa que permite explorar diferentes perfiles operativos, visualizar procesos y experimentar con sus funcionalidades.
 
-🌱 Currently Learning
+Podés acceder al laboratorio, conocer los proyectos desarrollados y revisar sus desafíos, soluciones y resultados desde mi sitio profesional.
 
-I am constantly expanding my skills, currently focusing on:
+**[Explorá mi portfolio y probá el laboratorio interactivo](https://www.nahuelmartinez.com.ar)**
 
-   - Advanced Flutter development for enhanced cross-platform mobile applications.
-   - Docker for environment orchestration, enabling isolated modules and dependency management.
-   - Kubernetes (future goal) to streamline production deployments and improve scalability.
+### Trabajemos juntos
 
+Colaboro en proyectos completos, desarrollos específicos y modernización de sistemas, tanto de forma independiente como integrándome a equipos existentes.
 
-📸 Certificates  
+Si necesitás desarrollar una solución, mejorar una aplicación o integrar nuevas tecnologías, podemos conversar.
 
-![ISO-13485](https://github.com/jnahuel-developer/Certificados/blob/main/ISO13485.jpg)  
+**[Conocé mi trabajo y contactame](https://www.nahuelmartinez.com.ar)**
 
+---
 
-📫 How to Reach Me
+## English
 
-📌 [LinkedIn](https://www.linkedin.com/in/jnahuel/)
+### Electronic Engineer | Senior Software Developer | Freelance
 
-📧 [Email](jnahuel.developer@gmail.com)
+I am an electronic engineer and senior software developer focused on building, integrating, and modernizing technology solutions.
+
+I help companies turn complex requirements into reliable software, whether by developing new applications, modernizing legacy systems, automating workflows, or integrating existing platforms.
+
+My experience includes C++, C#, .NET, TypeScript, React, Node.js, databases, distributed systems, payment integrations, AI-assisted automation, and embedded systems.
+
+**Areas of expertise:**
+- Custom web, mobile, desktop, and backend development.
+- Legacy application modernization and architectural migration.
+- API development, system integration, and business process automation.
+- Software engineering, automated testing, CI/CD, and technical documentation.
+
+### Explore my work — and try a live demo
+
+My portfolio includes selected projects, technical challenges, solutions, and implementation details.
+
+It also features **ACME Café**, an interactive demonstration of a business management application. You can explore different operational roles and experience its functionality firsthand.
+
+**[Visit my portfolio and interactive lab](https://www.nahuelmartinez.com.ar)**
+
+Available for freelance projects, technical collaboration, and software modernization initiatives.
+
+**[Let's discuss your project](https://www.nahuelmartinez.com.ar)**
